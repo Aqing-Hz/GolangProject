@@ -1,4 +1,2 @@
 # GolangProject
-This is my first Golang Project. 
-Maybe I will study for a long time.
-I don't know how to update my github project.
+从零开始的GO学习生活
